@@ -1,1 +1,1 @@
-# c-curso-completo
+# Curso Completo de C - Introdução a programação
