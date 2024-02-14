@@ -6,14 +6,14 @@
 
 ## Pré-requisitos para curso
 
-- 👉 Apesar de ser desejável, você não precisa ter conhecimento em nenhuma outra linguagem de programação para acompanhar esse curso. Aproveitando o excelente material do professor **Beej** eu vou tentar te passar as coisas de forma bem passo a passo.  
+- 👉 Apesar de ser desejável, você não precisa ter conhecimento em nenhuma outra linguagem de programação para acompanhar as aulas. Aproveitando o excelente material do professor **Beej** eu vou tentar te passar as coisas de forma bem passo a passo.  
 
-- 👉 Para ter sucesso nesse curso, como em qualquer outro, você precisa ser curioso, praticar e persistir até entender os conceitos.
+- 👉 Para ter sucesso nesse treinamento de C, como em qualquer outro, você precisa ser curioso, praticar e persistir até entender os conceitos.
   
 - 👉 Nesse curso vamos interagir de forma básica com **terminal** do nosso sistema, apenas para compilar nossos programas e talvez criar algumas pastas, nada além disso. Se você não sabe nada de terminal, não se assuste, dá pra ir aprendendo no decorrer das aulas. Mas recomendo que pesquise os comandos básicos do terminal do seu sistema operacional. Acredite, uma vez ná área de desenvolvimento de software, o terminal sempre será um dos seus **best friends**!    
 
 ## Ferramentas
-- 👉 Para acompanhar esse curso você precisa apenas de um **editor de código** e um **compilador da linguagem C** instalado na sua máquina. O editor que vou usar é o [**VSCode**](https://code.visualstudio.com/download) e o compilador será o **GCC (GNU Compiler Collection)**.
+- 👉 Para acompanhar as aulas você precisa apenas de um **editor de código** e um **compilador da linguagem C** instalado na sua máquina. O editor que vou usar é o [**VSCode**](https://code.visualstudio.com/download) e o compilador será o **GCC (GNU Compiler Collection)**.
 
 ### Instruções para usuários Linux
 
